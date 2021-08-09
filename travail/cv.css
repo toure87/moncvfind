@@ -1,0 +1,109 @@
+.body{
+    background-color: grey;
+}
+
+.page{
+    width: 780px;
+    margin: auto;
+    font-family:calibri  Tahoma,sans-serif;
+    font-size: 16px;
+    border: 5px solid #3357cc;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px black;
+    padding: 35px;
+    background-color: gray;
+}
+
+.infophoto{
+    height: 200px;
+    padding-right: 20px;
+}
+
+.info{
+    height: -50px
+
+}    
+
+.section{
+    margin-bottom: 30px;
+    text-align: justify;
+
+}
+
+.section:hover{
+    color: rgb(34, 0, 128);
+}
+
+.gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: -8px;
+    margin-right: 40px;
+
+}
+
+.droite{
+    margin-bottom: 70px;
+    margin-top: 20px;
+
+}
+h2{
+    font-size: 15px;
+    color: #bb3333;
+    border-bottom: 3px solid #dd3333;
+
+}
+
+.durée{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+#forma-gauche p{
+    margin-bottom: 40px;
+    
+
+}
+
+}
+
+#df{
+    margin-bottom: auto;
+}
+
+#ep{
+    margin-bottom: -20px;
+}
+
+#cc{
+    min-height: -20px;
+
+}
+
+#qv{
+    margin-bottom: -120px;
+}
+
+#dg{
+    position: relative;
+    left: 600px;
+    top: -250px;
+}
+
+#ds{
+    position: relative;
+    top: -180px;
+}
+
+#da{
+    top: -200px;
+}
